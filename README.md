@@ -1,0 +1,2 @@
+# SudokuSolver
+A 9x9 sudoku solver that uses a backtracking algorithm to solve any sudoku puzzle entered by the user. The user fills in numbers on the 9x9 grid and clicks the "Solve board" button to submit their puzzle. If the puzzle is valid, the correct numbers will automatically be filled in across the board and the corresponding squares will be highlighted green. If the submitted puzzle is invalid, the empty squares will be highlighted red. After either of these occurrences, the user can click the "Clear Board" button to reset the board.
